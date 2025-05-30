@@ -10,3 +10,15 @@ os = "linux"
     [[legate.download]]
     sha256 = "8f9e3242742fe64d895339775e7ef79fbc5a15161cff0166aedd921a5343c502"
     url = "https://github.com/ejmeitz/legate_jll.jl/releases/download/legate-v25.3.0+0/legate.v25.3.0.x86_64-linux-gnu-cxx11-cuda+12.2.tar.gz"
+[[legate]]
+arch = "x86_64"
+cuda = "12.4"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2ebb95549486e05288ac0b23701bf9fbb551648d"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[legate.download]]
+    sha256 = "d05c27a53796d655f10bcd15115df04104b90d06ed578887a63145e11c2e17ae"
+    url = "https://github.com/ejmeitz/legate_jll.jl/releases/download/legate-v25.3.0+0/legate.v25.3.0.x86_64-linux-gnu-cxx11-cuda+12.4.tar.gz"

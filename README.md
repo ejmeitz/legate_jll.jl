@@ -17,7 +17,7 @@ The tarballs for `legate_jll.jl` have been built from these sources:
 
 `legate_jll.jl` is available for the following platforms:
 
-* `Linux x86_64 {cuda=12.2, cxxstring_abi=cxx11, libc=glibc}` (`x86_64-linux-gnu-cxx11-cuda+12.2`)
+* `Linux x86_64 {cuda=12.4, cxxstring_abi=cxx11, libc=glibc}` (`x86_64-linux-gnu-cxx11-cuda+12.4`)
 
 ## Dependencies
 
