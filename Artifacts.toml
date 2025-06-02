@@ -1,0 +1,12 @@
+[[legate]]
+arch = "x86_64"
+cuda = "12.2"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bf25267cf9a6cc877f2e8311e5040e7c64e7de85"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[legate.download]]
+    sha256 = "a42214ac6c5fe8cd71bcd458c679a90e70acb090945cf84eb374a8948f08b748"
+    url = "https://github.com/ejmeitz/legate_jll.jl/releases/download/legate-v25.5.0+0/legate.v25.5.0.x86_64-linux-gnu-cxx11-cuda+12.2.tar.gz"
